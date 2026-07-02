@@ -40,3 +40,9 @@ Overall, the E-Learning Platform UI is a creative and practical project that sho
 - GitHub
 
 ## OUTPUTS:
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a5ac139c-43f1-4b33-8011-6293af8dec24" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/486aa390-a385-4a53-8fc1-75c305a9eb91" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/fe223ab0-d764-4761-9605-81dd218903a8" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/210f9caa-214a-42fe-92e9-04c3e2c786cb" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/65ec2b3a-00d1-4418-8368-f076d5952d2d" />
